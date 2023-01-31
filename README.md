@@ -27,4 +27,5 @@ Logo of myhh first startup - Poetcard. Hyper-personalized alternative for broing
 - [LinkedIn](https://www.linkedin.com/in/utkarshgargofficial/) <br>
 - [Twitter](https://twitter.com/theutkarshgarg) <br>
 - [Blog](https://utkarshgargofficial.medium.com/) <br>
+- [DEV Blog](https://dev.to/utkarshgarg) <br>
 
