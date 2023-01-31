@@ -18,7 +18,6 @@ Logo of myhh first startup - Poetcard. Hyper-personalized alternative for broing
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJOgKKl5-HCUZOow2ozdDjcUM6kd4MF2t23A&usqp=CAU">
 </p>
 
--->
 
 
 📫 How to best reach me ... Telegram: @Karsh13 / utkarshgarg13@gmail.com
