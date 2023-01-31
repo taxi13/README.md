@@ -1,5 +1,5 @@
 # README.md
-<b> I blossom at Content + Community + Capital ❁ ✣ ✽  </b> !
+<b> I blossom at Content + Community + Capital ❁ ✣ ✽  </b>
 
 <p align="auto"> 
 <img src="https://metamorphosis.octaloop.com/speakers/Utkarsh%20Garg.png"width=55%>
